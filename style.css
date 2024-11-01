@@ -1,0 +1,93 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.conteiner{
+    max-width: 1100px;
+    margin: 0 auto;
+}
+body{
+    background-color: rgba(205, 93, 93, 1);
+}
+span{
+    color: yellow;
+}
+.p, span{
+    font-family: Inter;
+    font-size: 64px;
+    font-weight: 700;
+    line-height: 77.45px;
+    text-align: center;
+    margin-top: 38px;
+    
+}
+.p{
+    color: white;
+}
+.a{
+    display: flex;
+    justify-content: space-around;
+}
+.p2{
+    font-family: Inter;
+font-size: 40px;
+font-weight: 400;
+line-height: 48.41px;
+text-align: center;
+}
+a{
+    font-family: Inter;
+font-size: 15px;
+font-weight: 600;
+line-height: 18.15px;
+text-align: center;
+
+}
+.lotsofdivs{
+
+}
+.div10{
+    width: 300px;
+height: 300px;
+top: 173px;
+left: 166px;
+gap: 0px;
+opacity: 0px;
+
+}
+.img{
+    width: 300px;
+height: 140px;
+top: 173px;
+left: 166px;
+gap: 0px;
+opacity: 0px;
+
+}
+.div10{
+    width: 300px;
+height: 300px;
+top: 173px;
+left: 166px;
+gap: 0px;
+opacity: 0px;
+background-color: black;
+}
+h3{
+    color: white;
+    text-align: center;
+    padding-top: 10px;
+    font-size: 24px;
+}
+.lotsofdivs{
+    display: flex;
+gap: 100px;
+
+flex-wrap: wrap;
+}
+.p10{
+    color: white;
+    text-align: center;
+    padding-top: 10px;
+}
